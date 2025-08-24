@@ -124,7 +124,7 @@ Observability: [CloudWatch, Logging]            ■■■□□ (Comfortable)
 - [GitHub](https://github.com/Naman-S-Sondhiya)  
 - Docker Hub: [namanss](https://hub.docker.com/u/namanss)  
 - **Resume:** _(add your resume link here)_  ## WILL be AVAILABLE SOON
-- **Email:** _(namansondhiya17@email.com)_  
+- **Email:** (namansondhiya17@email.com)
 
 ---
 
