@@ -19,7 +19,7 @@ Currently expanding into **DevSecOps and cloud-native security practices**.
 
 ## 🔎 At-a-glance (scan in 10s)
 
-* **Role:** DevOps / Cloud Engineer | Junior Cloud Security Engineer (Open to remote & relocation)
+* **Role:** DevOps / Cloud Engineer | Junior Cloud Security Engineer | SRE (Open to remote & relocation)
 * **Availability:** Immediate joiner
 * **Core stack:** AWS • Terraform • Docker • Kubernetes • Jenkins • GitHub Actions • Python
 * **Learning focus:** Cloud Security, Observability, GitOps
@@ -29,13 +29,13 @@ Currently expanding into **DevSecOps and cloud-native security practices**.
 
 ## 🧰 Core skills — quick visual
 
-Cloud: [AWS (EC2, S3, VPC, Lambda, CF)] ■■■■■ (Advanced)
-IaC: [Terraform, OpenTofu, CloudFormation] ■■■■■ (Advanced)
-Containers: [Docker, Kubernetes, Helm, ArgoCD] ■■■■■ (Advanced)
-CI/CD: [GitHub Actions, Jenkins] ■■■■■ (Advanced)
-Scripting: [Python, Bash] ■■■■□ (Proficient)
-Security: [IAM, CloudWatch, Playbooks, GuardDuty] ■■■□ (Growing)
-Observability: [Logging, Metrics, Monitoring] ■■■□ (Comfortable)
+* Cloud: [AWS (EC2, S3, VPC, Lambda, CF)] ■■■■■ (Advanced)
+* IaC: [Terraform, OpenTofu, CloudFormation] ■■■■■ (Advanced)
+* Containers: [Docker, Kubernetes, Helm, ArgoCD] ■■■■■ (Advanced)
+* CI/CD: [GitHub Actions, Jenkins] ■■■■■ (Advanced)
+* Scripting: [Python, Bash] ■■■■□ (Proficient)
+* Security: [IAM, CloudWatch, Playbooks, GuardDuty] ■■■□ (Growing)
+* Observability: [Logging, Metrics, Monitoring] ■■■□ (Comfortable)
 
 ---
 
