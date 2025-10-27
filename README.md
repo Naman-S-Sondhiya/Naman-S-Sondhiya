@@ -49,15 +49,15 @@ Currently expanding into **DevSecOps and cloud-native security practices**.
 ---
 
 ### 2️⃣ **Project Gehenna** — *3-tier Kubernetes deployment*
-**Highlights:** Microservices app (frontend + backend + MongoDB) containerized and deployed on Minikube using Helm & GitOps workflow.  
-**Stack:** Docker • Kubernetes • Helm • MongoDB  
+**Highlights:** Microservices app (frontend + backend + MongoDB) containerized and deployed on EKS using eksctl, kubectl, Helm & ArgoCD GitOps workflow.  
+**Stack:** Docker • Kubernetes • Helm • MongoDB • ArgoCD • Python  
 **Repo:** [Project-Gehenna](https://github.com/NamanSondhiya/Project-Gehenna)
 
 ---
 
 ### 3️⃣ **CI/CD Automation Pipeline** — *Docker → Jenkins → AWS*
 **Highlights:** Full CI/CD pipeline automating Docker builds, tests, and EC2 deployments through GitHub Actions & Jenkins integration.  
-**Stack:** Docker • Jenkins • GitHub Actions • AWS EC2  
+**Stack:** Docker • Jenkins • GitHub Actions • AWS EC2 • Python-flask
 **Repo:** [devops-automation-pipeline](https://github.com/NamanSondhiya/devops-automation-pipeline)
 
 ---
